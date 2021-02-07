@@ -7,3 +7,4 @@ int main() {
 	g.play();
 	
 	return 0;
+}
